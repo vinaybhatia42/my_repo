@@ -11,8 +11,7 @@
             "role": "Developer"
         }
     ],
-     "minimum-stability": "dev",
-    "prefer-stable": "true",
+     
     "require": {
         "php": ">=7.3.0"
     }
