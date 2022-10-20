@@ -1,0 +1,19 @@
+{
+    "name": "abc/xyz",
+    "type": "library",
+    "description": "Logging for PHP 8.0",
+    "keywords": ["log","logging"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vinay Bhatia",
+            "email": "vinaybhatiaufvinu42@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+  
+    
+}
