@@ -1,7 +1,7 @@
 {
     "name": "uvw/jkl",
     "type": "library",
-    "description": "Logging for PHP 8.0",
+    "description": "Logging for PHP 7.0",
     "keywords": ["log","logging"],
     "license": "MIT",
     "authors": [
@@ -19,4 +19,5 @@
         "psr-0": {
             "app": "src"
         }
+}
 }
